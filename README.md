@@ -1,3 +1,4 @@
+# Keeper-App
 
 ## Table of contents
 
@@ -22,8 +23,7 @@
 
 
 ### Links
-- Live Site URL: [https://keeper-app-fc.netlify.app/](https://keeper-app-fc.netlify.app/)   [![Netlify Status](https://api.netlify.com/api/v1/badges/f4f81921-d934-4e10-aa92-2b4334da5815/deploy-status)](https://app.netlify.com/sites/keeper-app-fc/deploys)
-
+- Live Site URL: [https://keeper-app-fc.netlify.app/](https://keeper-app-fc.netlify.app/)
 ## My Process
 ### Built with
 
@@ -40,5 +40,4 @@
 
 - GitHub - [@Yash Kumar](https://github.com/yashsaini7060)
 - LinkedIn - [@Yash Kumar](https://www.linkedin.com/in/yash-kumar-8907691b7/)
-# Keeper-App
-# Keeper-App
+
